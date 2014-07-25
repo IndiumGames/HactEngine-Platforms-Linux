@@ -1,0 +1,4 @@
+# Backup and temporary files
+*~
+*.autosave
+*.temp
