@@ -10,6 +10,8 @@ http://indiumgames.fi
 
 ## Included libraries
 
+All of the libraries were compiled on Ubuntu 14.04 (64-bit) using GCC 4.8.2.
+
 **Lua**  
 *version 5.2.3 (2014-07-19)*  
 http://www.lua.org/
