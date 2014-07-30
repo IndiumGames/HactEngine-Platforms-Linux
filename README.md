@@ -8,7 +8,8 @@ HactEngine is a multi-platform game engine, which will be released as open sourc
 http://indiumgames.fi
 
 
-## Included libraries
+Included libraries
+------------------
 
 All of the libraries were compiled on Ubuntu 14.04 (64-bit) using GCC 4.8.2.
 
